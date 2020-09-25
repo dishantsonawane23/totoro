@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>163.jpg</filename>
+  <path>/home/dishant/OpenLabeling/main/input/163.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Sad</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>97</xmin>
+      <ymin>42</ymin>
+      <xmax>244</xmax>
+      <ymax>264</ymax>
+    </bndbox>
+  </object>
+</annotation>
