@@ -29,14 +29,12 @@ FLAGS = flags.FLAGS
 
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
-    if row_label == 'Happy':
+    if row_label == 'with_mask':
     # if row_label == 'tommad':
         return 1
-    elif row_label == 'Sad':
+    elif row_label == 'without_mask':
     # elif row_label == 'kk':
         return 2
-    elif row_label == 'Dishant':
-    	return 3
     else:
         None
 
