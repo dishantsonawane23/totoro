@@ -4,5 +4,10 @@
 
 item {
     id: 1
-    name:'person'
+       name:'with_mask'
+}
+
+item {
+    id: 2
+    name: 'without_mask'
 }
